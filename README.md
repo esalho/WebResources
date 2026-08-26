@@ -1,6 +1,20 @@
 # WebResources
+
 Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyy vain ne sivustot, joiden käyttöön ei tarvitse kirjautumista ja materiaalien lisenssi on public domain tai vastaava, joka sallii käytön kurssien puitteissa. Mahdollinen maksullinen materiaali on pystyttävä suodattamaan helposti hakutuloksista.
 
 ## Kuvia
-* [Unsplash](https://unsplash.com/)
-* [Pexels](https://www.pexels.com/)
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+
+## Grafiikka
+
+- [Fffuel](https://www.fffuel.co/)
+
+## Koodi
+
+- [CSS Portal](https://www.cssportal.com/)
+
+## Työkaluja
+
+- [Delphitools](https://delphi.tools/)

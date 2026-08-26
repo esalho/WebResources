@@ -10,8 +10,17 @@ Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyy 
 ## Grafiikka
 
 - [Fffuel](https://www.fffuel.co/)
+- [unDraw](https://undraw.co/)
 
 ## Koodi
+
+### Oppaat
+
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [web.dev](https://web.dev/)
+
+### Snippets
 
 - [CSS Portal](https://www.cssportal.com/)
 

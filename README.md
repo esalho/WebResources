@@ -11,6 +11,9 @@ Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyv�
 
 - [Fffuel](https://www.fffuel.co/)
 - [unDraw](https://undraw.co/)
+- [Book of Shapes](https://www.bookofshapes.com/)
+- [Holocloth](https://holocloth.vercel.app/)
+- [Kojima](https://kojima-san.vercel.app/)
 
 ## Koodi
 

@@ -1,6 +1,6 @@
 # WebResources
 
-Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyy vain ne sivustot, joiden käyttöön ei tarvitse kirjautumista ja materiaalien lisenssi on public domain tai vastaava, joka sallii käytön kurssien puitteissa. Mahdollinen maksullinen materiaali on pystyttävä suodattamaan helposti hakutuloksista.
+Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyvät vain ne sivustot, joiden käyttöön ei tarvitse kirjautumista ja materiaalien lisenssi on public domain tai vastaava, joka sallii käytön kurssien puitteissa. Mahdollinen maksullinen materiaali on pystyttävä suodattamaan helposti hakutuloksista.
 
 ## Kuvia
 

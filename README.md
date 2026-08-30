@@ -22,12 +22,19 @@ Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyv�
 - [W3Schools](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [web.dev](https://web.dev/)
+- [WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 
 ### Snippets
 
 - [CSS Portal](https://www.cssportal.com/)
 
 ## Työkaluja
+
+### Saavutettavuus
+
+- [Color Blindness Simulator](https://colorblindsimulator.app/)
+
+### Muut
 
 - [Delphitools](https://delphi.tools/)
 - [Penpot](https://penpot.app/)

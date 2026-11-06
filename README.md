@@ -39,3 +39,7 @@ Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyv�
 
 - [Delphitools](https://delphi.tools/)
 - [Penpot](https://penpot.app/)
+
+## Hosting
+
+- [Neocities](https://neocities.org/)

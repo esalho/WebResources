@@ -15,6 +15,10 @@ Yritys kuratoida kurssien kannalta hyödyllistä materiaalia. Listalle päätyv�
 - [Holocloth](https://holocloth.vercel.app/)
 - [Kojima](https://kojima-san.vercel.app/)
 
+### 3D jutut
+
+- [FreeStylized](https://freestylized.com/)
+
 ## Koodi
 
 ### Oppaat
